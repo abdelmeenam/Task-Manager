@@ -10,7 +10,7 @@
 </p>
 <br>
 
-## :dart:
+## :dart: About
 
 This project is a simple yet efficient web application that allows users to create and manage their to-do lists. The application is built using Node.js and Mongo database for data storage.
 
@@ -51,7 +51,7 @@ $ nodemon app.js
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{Abdelmonem}}</a>
+Made with :heart: by <a href="https://github.com/abdelmeenam" target="_blank">Abdelmonem</a>
 
 &#xa0;
 
