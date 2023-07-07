@@ -1,8 +1,8 @@
 <h1 align="center"> Task Manager  </h1>
 
 <p align="center">
-  <a href="#dart-About">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#dart">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles">Features</a> &#xa0; | &#xa0;
   <a href="#configuration">configuration</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Installation</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -10,11 +10,11 @@
 </p>
 <br>
 
-## :dart-About:
+## :dart:
 
 This project is a simple yet efficient web application that allows users to create and manage their to-do lists. The application is built using Node.js and Mongo database for data storage.
 
-## :sparkles-features: Features
+## :sparkles: Features
 
 1- Create and manage multiple to-do lists
 
@@ -24,7 +24,7 @@ This project is a simple yet efficient web application that allows users to crea
 
 4- Rename or delete a to-do list
 
-## :configuration: Configuration
+## :rocket: Configuration
 
 create .env file and make sure to set up the following environment variables:
 
@@ -32,7 +32,7 @@ create .env file and make sure to set up the following environment variables:
 `MONGODB_URI`: The connection URI for your MongoDB database.
 ```
 
-## :checkered_flag-starting: Installation
+## :checkered_flag: Installation
 
 ```bash
 # Clone this project
